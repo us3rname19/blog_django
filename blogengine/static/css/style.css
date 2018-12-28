@@ -1,0 +1,39 @@
+.admin-panel{
+border: 1px solid #999;
+border-radius: 2px;
+position: fixed;
+right: 50px;
+bottom: 30px;
+opacity: 0.3;
+padding: 15px;
+}
+
+.admin-panel:hover {
+opacity: 1;
+}
+
+.admin-panel a {
+display: block;
+margin: 5px 0;
+}
+
+a.edit, a.delete {
+display: none;
+}
+
+.card mb-4 {
+border
+}
+
+.card-header {
+background-color: #E3F2FD;
+}
+
+.card-footer.text-muted {
+background-color: #E3F2FD;
+}
+
+body {
+background-color: #F3F3F3;
+}
+
